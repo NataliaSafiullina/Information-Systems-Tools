@@ -22,4 +22,6 @@ Course
 `select 'Hello world!' from dual;`
 
 
-Пример картинки будет позже.
+Пример картинки:
+
+![One Love](https://asktom.oracle.com/pls/apex/f?p=100:DOWNLOAD::APPLICATION_PROCESS=GET_IMAGE:::GET_TYPE,GET_ID:SUPP_NAME,NOT_THE_SQL_LOOKING_FOR)
