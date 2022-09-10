@@ -1,29 +1,27 @@
 # Information-Systems-Tools
-Course
-
-## Инструментальные средства информационных систем
-**для студентов БИН-19-01** 
-
-*Рассматриваются инструменты разработчика, 8 лекций, 8 лабораторных*
-
-Курс составляет: Наталия Фаритовна Сафиуллина.
-
-Цитата курса:
 > ...
 > Песню, что придумали,
 > 
 > До конца допеть.
 > ...
 
+## Инструментальные средства информационных систем
+*для студентов БИН-19-01* 
 
-Ссылка на Git [жми сюда](https://github.com/NataliaSafiullina).
+**Лекции:**
+1. Ввеседние
+2. СУБД
 
 
-Пример кода:
+**Лабораторные:**
+1. GitHub and Git
+2. Pythin
+
+
+Скачать Git [можно тут](https://git-scm.com/download/win).
+
+
 
 `select 'Hello world!' from dual;`
-
-
-Пример картинки:
 
 ![This is not the SQL You were looking for](https://asktom.oracle.com/pls/apex/f?p=100:DOWNLOAD::APPLICATION_PROCESS=GET_IMAGE:::GET_TYPE,GET_ID:SUPP_NAME,NOT_THE_SQL_LOOKING_FOR)
