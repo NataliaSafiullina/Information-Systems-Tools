@@ -22,6 +22,9 @@
 
 Скачать интерпретатор Python [можно тут](https://www.python.org/downloads/)
 
+Скачать PyCharm [можно тут](https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows)
+
+---
 
 `select 'Hello world!' from dual;`
 
