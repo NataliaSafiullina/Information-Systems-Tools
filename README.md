@@ -15,11 +15,12 @@
 
 **Лабораторные:**
 1. GitHub and Git
-2. Pythin
+2. Python
 
 
 Скачать Git [можно тут](https://git-scm.com/download/win).
 
+Скачать интерпретатор Python [можно тут](https://www.python.org/downloads/)
 
 
 `select 'Hello world!' from dual;`
