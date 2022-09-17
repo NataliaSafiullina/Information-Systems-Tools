@@ -24,6 +24,8 @@
 
 Скачать PyCharm [можно тут](https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows)
 
+Скачать Docker [можно тут](https://www.docker.com/products/docker-desktop/#/windows)
+
 ---
 
 `select 'Hello world!' from dual;`
