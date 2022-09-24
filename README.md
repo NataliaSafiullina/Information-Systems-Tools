@@ -10,12 +10,16 @@
 
 **Лекции:**
 1. Введение
-2. СУБД
+2. Виртуализация и контейнеризация
+3. СУБД
+4. Скриптовый язык, на примере Python
 
 
 **Лабораторные:**
 1. GitHub and Git
 2. Python
+3. Docker и MySQL, MongoDB, Redis
+4. Python для продвинутых :)
 
 
 Скачать Git [можно тут](https://git-scm.com/download/win).
