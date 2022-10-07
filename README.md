@@ -18,8 +18,9 @@
 **Лабораторные:**
 1. GitHub and Git
 2. Python
-3. Docker и MySQL, MongoDB, Redis
-4. Python для продвинутых :)
+3. Docker
+4. MySQL, MongoDB, Redis
+5. Python для продвинутых :)
 
 
 Скачать Git [можно тут](https://git-scm.com/download/win).
