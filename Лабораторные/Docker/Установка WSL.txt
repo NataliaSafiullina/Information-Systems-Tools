@@ -1,0 +1,20 @@
+C:\>wsl --list --online
+Ниже приведен список допустимых распределений, которые можно установить.
+Установите с помощью команды wsl --install -d <Distro>.
+
+NAME            FRIENDLY NAME
+Ubuntu          Ubuntu
+Debian          Debian GNU/Linux
+kali-linux      Kali Linux Rolling
+openSUSE-42     openSUSE Leap 42
+SLES-12         SUSE Linux Enterprise Server v12
+Ubuntu-16.04    Ubuntu 16.04 LTS
+Ubuntu-18.04    Ubuntu 18.04 LTS
+Ubuntu-20.04    Ubuntu 20.04 LTS
+
+C:\>wsl
+Нет установленных дистрибутивов подсистемы Windows для Linux.
+Дистрибутивы можно установить из Microsoft Store:
+https://aka.ms/wslstore
+
+C:\>wsl --install -d Ubuntu-20.04
