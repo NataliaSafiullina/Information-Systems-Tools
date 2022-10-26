@@ -12,15 +12,17 @@
 1. Введение
 2. Виртуализация и контейнеризация
 3. СУБД
-4. Скриптовый язык, на примере Python
+4. Структуры данных Python
+5. Управление проектами и задачами
 
 
 **Лабораторные:**
 1. GitHub and Git
-2. Python
+2. Python 1
 3. Docker
 4. MySQL, MongoDB, Redis
-5. Python для продвинутых :)
+5. Python 2
+6. Burndown chart
 
 
 Скачать Git [можно тут](https://git-scm.com/download/win).
