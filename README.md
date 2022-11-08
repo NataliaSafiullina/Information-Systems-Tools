@@ -14,6 +14,7 @@
 3. СУБД
 4. Структуры данных Python
 5. Управление проектами и задачами
+6. Web-разработка
 
 
 **Лабораторные:**
@@ -23,6 +24,7 @@
 4. MySQL, MongoDB, Redis
 5. Python 2
 6. Burndown chart
+7. Web-рфзработка
 
 
 Скачать Git [можно тут](https://git-scm.com/download/win).
