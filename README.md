@@ -24,7 +24,7 @@
 4. MySQL, MongoDB, Redis
 5. Python 2
 6. Burndown chart
-7. Web-рфзработка
+7. Web-разработка
 
 
 Скачать Git [можно тут](https://git-scm.com/download/win).
