@@ -1,5 +1,5 @@
 # Information systems tools
-# This are samples from Lab 2
+# These are samples from Lab 2
 
 # import time
 from tkinter import messagebox, Tk, Label, Button
